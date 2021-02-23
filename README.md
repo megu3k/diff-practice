@@ -1,6 +1,7 @@
 # diff-practice
-Git動画講座diff練習用
-新規ファイル変更用（3rd）
-mergetoolコンフリクト用(featureブランチ)
+このリポジトリはGit練習用です。
+ローカルリポで変更
+rebase-practiceブランチで変更
+
 
 
